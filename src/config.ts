@@ -91,7 +91,7 @@ export const siteConfig = {
 
   experience: [
     {
-      company: "JDIT Business Solutions Pvt. Ltd.",
+      company: "JDIT Software Solutions Pvt. Ltd.",
       title: "Android & React Native Developer",
       dateRange: "Mar 2024 - Present",
       bullets: [
